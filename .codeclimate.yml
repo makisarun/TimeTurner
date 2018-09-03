@@ -20,7 +20,7 @@ checks:
     config:
       threshold: 4
   return-statements:
-    config:
+    config:fawef
       threshold: 4
   similar-code:
     enabled: true
