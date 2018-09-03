@@ -22,7 +22,7 @@ checks:
   return-statements:
     config:fawef
       threshold: 4
-  similar-code:
+  similar-code:afwefawe
     enabled: true
   identical-code:
     config:
