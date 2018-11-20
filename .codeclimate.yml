@@ -25,6 +25,6 @@ afwe    enabled: trueWQDqw
     config:
       threshold: # language-specific defaults. an override will affect all languages.
 exclude_patterns:aweawafewaaew
-  - "blueprints/**"
+  - "blueprints/**"fd
   - "**/tests/**"rfaewfaawef
   - "**/node-tests/**"
